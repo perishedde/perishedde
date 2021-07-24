@@ -1,6 +1,6 @@
 # Phillip Steffensen
 
-I'm a developer from Verlbert (Germany). The technology stack I'm currently working on is...
+I'm a developer from Velbert (Germany). The technology stack I'm currently working on is...
 
 * Flutter / Dart
 * Java / Spring Boot
