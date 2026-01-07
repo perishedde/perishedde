@@ -7,11 +7,12 @@ I'm a developer from Velbert (Germany). You can find me on my website [perished-
 * Dart / Flutter / Serverpod
 * Python / Django / Wagtail
 * AI / Context Engineering / Prompt Engineering
-* DevOps / Ansible
+* DevOps / Ansible / Docker
 
 ## Yesterdays Tech Stack
 
 * Java / Spring Boot
+* Java UI / Swing / JavaFX
 * TypeScript / Ionic
 
 ## Links
