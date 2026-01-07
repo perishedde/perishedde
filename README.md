@@ -7,6 +7,7 @@ I'm a developer from Velbert (Germany). You can find me on my website [perished-
 * Dart / Flutter / Serverpod
 * Python / Django / Wagtail
 * AI / Context Engineering / Prompt Engineering
+* TypeScript / React / Vite
 * DevOps / Ansible / Docker
 
 ## Yesterdays Tech Stack
